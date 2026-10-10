@@ -1,8 +1,8 @@
 # Laboratorio 4 — Contenedores y Despliegue con Docker
 
-**Universidad de Antioquia — Facultad de Ingeniería**
-**Curso:** Cloud Computing
-**Profesor:** Juan Pablo Arango
+**Universidad de Antioquia — Facultad de Ingeniería**<br>
+**Curso:** Cloud Computing<br>
+**Profesor:** Juan Pablo Arango<br>
 **Integrantes:** Jose Miguel Monsalve Marín, Miguel Ángel Agudelo Vera, Camilo Andrés Pérez Padilla
 
 ## Descripción
