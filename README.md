@@ -119,4 +119,4 @@ docker rm miapp        # eliminar el contenedor
 
 ## Video
 
-Link del video: 
+Link del video: https://drive.google.com/file/d/1IdNN1V_sbmS5iQE4MOuT7fImOUr9lZNi/view?usp=sharing
